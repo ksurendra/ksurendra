@@ -1,4 +1,4 @@
-### I’ve been a Programmer. Architect. Also Invent, Design, Build Teams & Companies.
+### Software Engineering | Design Systems | 
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Java, Angular, Adobe Experience Manager (AEM), Software engineering
 - 📫  How to reach me: @surenkonathala (Twitter)
 - :link:  https://suren.dev
+- Working as Director of Engineering [Hero Digital](https://herodigital.com)
