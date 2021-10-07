@@ -1,4 +1,4 @@
-### Software Engineering | Design Systems | 
+### Software Engineering - Web applications, WEB3, Blockchain | Design Systems | Java | Angular
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
