@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱  I’m currently learning: [Go Language](https://golang.org/), [Elasticsearch](https://www.elastic.co/elastic-stack)
+- 💬  Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering
+- 🌱  I’m currently learning:Web3, Blockchain Technologies, [Elasticsearch](https://www.elastic.co/elastic-stack)
 - 💬  Ask me about: Java, Angular, Adobe Experience Manager (AEM), Software engineering
 - 📫  How to reach me: @surenkonathala (Twitter)
 - :link:  https://surenk.com
