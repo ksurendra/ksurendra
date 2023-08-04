@@ -1,4 +1,4 @@
-### Software Engineering - Web applications, WEB3, Blockchain | Design Systems | Java | Angular
+### Software Engineering - Java, Angular, Web applications, High peformance computing
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 💬  Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering
 - 🌱  I’m currently learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
 - :link:  https://surenk.com
-- Working as Director of Engineering [Hero Digital](https://herodigital.com)
+- Working as Senior Director of Engineering [Hero Digital](https://herodigital.com)
