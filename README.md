@@ -1,4 +1,4 @@
-### Software Engineering - Java, Angular, Web applications, High peformance computing
+### I build, lead software engineering teams. Never stop coding. ❤️ Software engineering, Java, Angular, Open source
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬  Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering
-- 🌱  I’m currently learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
+- 💬  Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering, High performance computing, Generative AI
+- 🌱  Learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
 - :link:  https://surenk.com
+- ✍️ https://www.surenk.com/blog, https://surenk.medium.com/
 - Working as Senior Director of Engineering [Hero Digital](https://herodigital.com)
+
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb,angular,react,nodejs&theme=light)]
