@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬  Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering, High performance computing, Generative AI
-- 🌱  Learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
-- :link:  https://surenk.com
-- ✍️ https://www.surenk.com/blog, https://surenk.medium.com/
+- 💬 Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering, High performance computing, Generative AI
+- 💡 Creator of: [The Java jAvascript sQl/nosQl JAQ Stack](https://jaqstack.com)
+- 🔭 Contributor at: Jakarta EE Eclipse Foundation, Carbon design system, Angular, Adobe projects
+- 🌱 Learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
+- 📫 Reach me at https://surenk.com
+- ✍️ I write about technology at https://www.surenk.com/blog, https://surenk.medium.com/
 - Working as Senior Director of Engineering [Hero Digital](https://herodigital.com)
 
-[![My Skills](https://skillicons.dev/icons?i=java,mongodb,angular,react,nodejs&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb,angular,react,nodejs,aws,gcp,azure,docker,linux&theme=light&perline=4)]
