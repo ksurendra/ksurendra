@@ -1,4 +1,4 @@
-### I build, lead software engineering teams. Never stop coding. ❤️ Gen AI Software engineering, Java, Angular, Open source
+### I build, lead software engineering teams. Never stop coding. ❤️ Gen AI for Software engineering, Java, Angular, Open source
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
