@@ -1,4 +1,4 @@
-### I build, lead software engineering teams. Never stop coding. ❤️ Software engineering, Java, Angular, Open source
+### I build, lead software engineering teams. Never stop coding. ❤️ Gen AI Software engineering, Java, Angular, Open source
 
 <!--
 **ksurendra/ksurendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Ask me about: Java, Angular, MongoDB, Adobe Experience Manager (AEM), Software engineering, High performance computing, Generative AI
+- 💬 Ask me about: Generative AI for Software Engineering, Java, Angular, MongoDB, Adobe Experience Manager (AEM),
 - 💡 Creator of: [The Java jAvascript sQl/nosQl JAQ Stack](https://jaqstack.com)
 - 🔭 Contributor at: Jakarta EE Eclipse Foundation, Carbon design system, Angular, Adobe projects
-- 🌱 Learning: Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
+- 🌱 Learning: Generative AI, Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
 - 📫 Reach me at https://surenk.com
 - ✍️ I write about technology at https://www.surenk.com/blog, https://surenk.medium.com/
-- Working as Senior Director of Engineering [Hero Digital](https://herodigital.com)
+- Working as Porfolio Manager @ [Capgemini](https://capgemini.com)
 
 [![My Skills](https://skillicons.dev/icons?i=java,mongodb,angular,react,nodejs,aws,gcp,azure,docker,linux&theme=light&perline=4)]
