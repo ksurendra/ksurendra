@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Generative AI for Software Engineering, Java, Angular, MongoDB, Adobe Experience Manager (AEM),
 - 💡 Creator of: [The Java jAvascript sQl/nosQl JAQ Stack](https://jaqstack.com)
 - 🔭 Contributor at: Jakarta EE Eclipse Foundation, Carbon design system, Angular, Adobe projects
-- 🌱 Learning: Generative AI, Commerce tools, [Elasticsearch](https://www.elastic.co/elastic-stack)
+- 🌱 Learning: Generative AI, [Github Copilot](https://github.com/features/copilot), [Elasticsearch](https://www.elastic.co/elastic-stack)
 - 📫 Reach me at https://surenk.com
 - ✍️ I write about technology at https://www.surenk.com/blog, https://surenk.medium.com/
 - Working as Porfolio Manager @ [Capgemini](https://capgemini.com)
